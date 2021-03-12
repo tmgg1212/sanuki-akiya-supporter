@@ -1,0 +1,11 @@
+.top-footer{
+
+}
+.form{
+  text-align: center;
+}
+.list-footer{
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}

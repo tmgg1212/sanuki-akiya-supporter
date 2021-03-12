@@ -1,0 +1,35 @@
+.text{
+  text-align: center;
+}
+.plan{
+  text-align: center;
+}
+.plan-list{
+  display: flex;
+  justify-content: space-around;
+}
+.free{
+  list-style: none;
+  text-align: center;
+}
+.light{
+  list-style: none;
+  text-align: center;
+}
+.standard{
+  list-style: none;
+  text-align: center;
+}
+.option{
+  list-style: none;
+  text-align: center;
+}
+.support{
+  text-align: center;
+}
+.risk{
+  text-align: center;
+}
+.statistics{
+  text-align: center;
+}

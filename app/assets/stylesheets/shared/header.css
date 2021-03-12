@@ -1,0 +1,21 @@
+.top-header{
+  display: flex;
+  justify-content: space-between;
+}
+.name{
+  margin-left: 15px;
+  font-size: 25px;
+  color: rgb(36, 85, 66);
+}
+.information{
+  font-size: 15px;
+  margin: 10px;
+}
+.list{
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  border-bottom: solid;
+  border-color: burlywood;
+  font-size: 20px;
+}
