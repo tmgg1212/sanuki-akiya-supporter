@@ -1,5 +1,11 @@
+.main{
+  background-color: lemonchiffon;
+}
 .text{
   text-align: center;
+}
+.home-list{
+  background-color: #ffffff;
 }
 .plan{
   text-align: center;
@@ -8,21 +14,44 @@
   display: flex;
   justify-content: space-around;
 }
-.free{
-  list-style: none;
+.left-header{
+  background-color: limegreen;
   text-align: center;
+  border: solid black 1px;
+  border-radius: 6px;
+}  
+.plan-free{
+  text-align: center;
+  background-color: #ffffff;
+  border: solid black 1px;
+  padding: 50px;
+  border-radius: 6px;
 }
-.light{
-  list-style: none;
+.center-header{
+  background-color: khaki;
   text-align: center;
+  border: solid black 1px;
+  border-radius: 6px;
 }
-.standard{
-  list-style: none;
+.plan-normal{
   text-align: center;
+  background-color: #ffffff;
+  border: solid black 1px;
+  padding: 50px;
+  border-radius: 6px;
 }
-.option{
-  list-style: none;
+.light-header{
+  background-color: khaki;
   text-align: center;
+  border: solid black 1px;
+  border-radius: 6px;
+}
+.plan-light{
+  text-align: center;
+  background-color: #ffffff;
+  border: solid black 1px;
+  padding: 50px;
+  border-radius: 6px;
 }
 .support{
   text-align: center;

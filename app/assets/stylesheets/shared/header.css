@@ -1,21 +1,23 @@
 .top-header{
   display: flex;
   justify-content: space-between;
+  border-bottom: solid;
+  border-color: burlywood;
 }
 .name{
   margin-left: 15px;
   font-size: 25px;
   color: rgb(36, 85, 66);
+  text-decoration: none;
 }
 .information{
   font-size: 15px;
   margin: 10px;
 }
-.list{
-  display: flex;
-  justify-content: space-around;
-  list-style: none;
-  border-bottom: solid;
-  border-color: burlywood;
-  font-size: 20px;
+.tel{
+  font-size: 30px;
+  color: rgb(0, 148, 148);
+}
+.top_title{
+  text-decoration: none;
 }
